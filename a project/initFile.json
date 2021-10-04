@@ -1,0 +1,7 @@
+{
+	"author": "the author",
+	"projectName": "the name",
+	"destProjectPath": "D:/some path to export /project",
+	"exportNr": 0,
+	"comment": "some comment (wil be added to name of exported folder)"
+}
