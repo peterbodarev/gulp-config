@@ -7,7 +7,8 @@ My gulp configuration for web development projects. Processing source files like
 ## Examples 👁️
 
 <h2 align="center">
-<img src="examples/screenshot.webp" alt="example" width="100%" />
+  <img src="examples/screenshot.png" alt="example" width="100%" />
+</h2>
 
 ---
 
