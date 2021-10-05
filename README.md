@@ -6,9 +6,7 @@ My gulp configuration for web development projects. Processing source files like
 
 ## Examples 👁️
 
-<h2 align="center">
-  <img src="examples/screenshot.png" alt="example" width="100%" />
-</h2>
+![screenshot](https://user-images.githubusercontent.com/91592743/135983043-70e7ff25-ce19-4b21-955a-83bbaeaf3cd8.png)
 
 ---
 
