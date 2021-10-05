@@ -32,7 +32,7 @@ My gulp configuration for web development projects. Processing source files like
 ⚡️ Importing an empty project template\
 ⚡️ Export project to specified path\
 ⚡️ Watching files\
-⚡️ Automatically create minified version of css and s files
+⚡️ Automatically create minified version of css and s files\
 ⚡️ Transform scss to css\
 ⚡️ Group css media queries\
 ⚡️ Automatically compress images create webp files\
